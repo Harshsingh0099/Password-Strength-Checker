@@ -9,7 +9,7 @@ Checks for:
 Minimum length (8 characters)
 Uppercase letters
 Lowercase letters
-Numbers
+Numbers and
 Special characters
 How It Works:
 The password strength is calculated based on the following criteria:
